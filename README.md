@@ -1,2 +1,2 @@
 # WebApp
-Basic Django App for a shop 
+Basic Django App for online shopping 
